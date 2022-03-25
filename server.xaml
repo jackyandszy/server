@@ -8,3 +8,10 @@
                    Text="我们的口号是：史二宝是大坏蛋" />
     </StackPanel>
 </local:MyCard>
+    
+<local:MyCard Title="打开2b2t">
+    <StackPanel Margin="25,40,23,15">
+        <local:MyButton Margin="0,8,0,0" Width="250" Height="35"
+                 EventType="打开2b2t" EventData="1.12.2-Forge 14.23.5.2855-LiteLoader-OptiFine_G6_pre1|2b2t.xin" ToolTip="服务器 IP：2b2t.xin" />
+    </StackPanel>
+</local:MyCard>
