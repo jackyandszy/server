@@ -1,0 +1,10 @@
+<local:MyCard Title="史致远的服务器公告">
+    <StackPanel Margin="25,40,23,15">
+        <TextBlock Margin="0,0,0,4" Foreground="#8C7721"
+                   Text="2022年3月24日更新，升级了服务端，进行了许多优化，" />
+        <TextBlock Margin="0,0,0,4" Foreground="#8C7721"
+                   Text="删除了一些类似于luzihao之类的管理员权限......" />
+        <TextBlock Margin="0,0,0,4" Foreground="#8C7721" FontSize="23"
+                   Text="我们的口号是：史二宝是大坏蛋" />
+    </StackPanel>
+</local:MyCard>
