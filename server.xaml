@@ -5,7 +5,7 @@
         <TextBlock Margin="0,0,0,4" Foreground="#8C7721"
                    Text="坏，所以导致了服务器重置" />
         <TextBlock Margin="0,0,0,4" Foreground="#8C7721" FontSize="5"
-                   Text="                                                                                                                                                                                           愚人节快乐！" />
+                   Text="                                                                                                                                                                                                            愚人节快乐！" />
         <TextBlock Margin="0,0,0,4" Foreground="#8C7721" FontSize="23"
                    Text="我们的口号是：史二宝是大坏蛋" />
     </StackPanel>
