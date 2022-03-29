@@ -1,7 +1,11 @@
 <local:MyCard Title="史致远的服务器更新公告">
     <StackPanel Margin="25,40,23,15">
         <TextBlock Margin="0,0,0,4" Foreground="#8C7721"
-                   Text="2022年4月1日更新，因为在更新1.14.4的过程中，存档损/n 坏，所以导致了服务器重置" />
+                   Text="2022年4月1日更新，因为在更新1.14.4的过程中，存档损" />
+        <TextBlock Margin="0,0,0,4" Foreground="#8C7721"
+                   Text="坏，所以导致了服务器重置" />
+        <TextBlock Margin="0,0,0,4" Foreground="#8C7721" FontSize="1"
+                   Text="愚人节快乐！" />
         <TextBlock Margin="0,0,0,4" Foreground="#8C7721" FontSize="23"
                    Text="我们的口号是：史二宝是大坏蛋" />
     </StackPanel>
