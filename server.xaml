@@ -1,12 +1,17 @@
 <local:MyCard Title="史致远的服务器更新公告">
     <StackPanel Margin="25,40,23,15">
         <TextBlock Margin="0,0,0,4" Foreground="#8C7721"
-                   Text="2022年4月1日更新，因为在更新1.14.4的过程中，存档损" />
-        <TextBlock Margin="0,0,0,4" Foreground="#8C7721"
-                   Text="坏，所以导致了服务器重置" />
+                   Text="2022年4月1日更新，因为在更新1.14.4的过程中，存档损 &#xA;坏，所以导致了服务器重置" />
         <TextBlock Margin="0,0,0,4" Foreground="#8C7721" FontSize="5"
                    Text="                                                                                                                                                                                                            愚人节快乐！" />
         <TextBlock Margin="0,0,0,4" Foreground="#8C7721" FontSize="23"
                    Text="我们的口号是：史二宝是大坏蛋" />
+    </StackPanel>
+</local:MyCard>
+
+<local:MyCard Title="打开2b2t"  CanSwap="True" IsSwaped="True">
+    <StackPanel Margin="25,40,23,15">
+        <local:MyButton Margin="0,8,0,0" Width="250" Height="35"
+                 Text="打开2b2t" EventType="启动游戏" EventData="1.12.2-Forge 14.23.5.2855-LiteLoader-OptiFine_G6_pre1|2b2t" ToolTip="打开2b2t" />
     </StackPanel>
 </local:MyCard>
